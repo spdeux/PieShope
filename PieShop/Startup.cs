@@ -58,10 +58,11 @@ namespace PieShop
             app.UseStaticFiles(); //for static files
             app.UseSession(); //we should call before useRouting()
 
-            app.UseRouting();
+            app.UseRouting();//we should add for using mvc(1)
             app.UseAuthentication();
             app.UseAuthorization();
 
+            //we should add for using mvc(2)
             app.UseEndpoints(endpoints =>
             {
                 //endpoints.MapGet("/", async context =>
