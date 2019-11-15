@@ -2,7 +2,7 @@
 
 namespace PieShop.Models
 {
-    public class CategoryRepository: ICategoryRepository
+    public class CategoryRepository : ICategoryRepository
     {
         private readonly AppDbContext _appDbContext;
 

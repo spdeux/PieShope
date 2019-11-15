@@ -8366,11 +8366,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Learning\\Programing\\00.2019\\.NETCore\\PluralSight - Building Web Applications with ASP.NET Core MVC\\Project\\PieShop\\PieShop.csproj",
+      "projectUniqueName": "E:\\Learning\\Programing\\00.2019\\.NETCore\\PluralSight - Building Web Applications with ASP.NET Core MVC\\Project\\PieShop\\PieShope\\PieShop\\PieShop.csproj",
       "projectName": "PieShop",
-      "projectPath": "E:\\Learning\\Programing\\00.2019\\.NETCore\\PluralSight - Building Web Applications with ASP.NET Core MVC\\Project\\PieShop\\PieShop.csproj",
+      "projectPath": "E:\\Learning\\Programing\\00.2019\\.NETCore\\PluralSight - Building Web Applications with ASP.NET Core MVC\\Project\\PieShop\\PieShope\\PieShop\\PieShop.csproj",
       "packagesPath": "C:\\Users\\Sepideh\\.nuget\\packages\\",
-      "outputPath": "E:\\Learning\\Programing\\00.2019\\.NETCore\\PluralSight - Building Web Applications with ASP.NET Core MVC\\Project\\PieShop\\obj\\",
+      "outputPath": "E:\\Learning\\Programing\\00.2019\\.NETCore\\PluralSight - Building Web Applications with ASP.NET Core MVC\\Project\\PieShop\\PieShope\\PieShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
